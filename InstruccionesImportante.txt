@@ -1,0 +1,23 @@
+Instrucciones para un uso correcto de la aplicación Websoft 
+ 
+  Al iniciar la aplicación usted puede crear una empresa desde cero en :
+   Pasos a seguir para lacorrecta creación de la empresa 
+  1 Barra de menu/Archivo/Crear Empresa 
+  2 Agregar Departamento 
+  3 Vincular proyecto
+  4 Vincular trabajador
+  5 Administrar proyectos y vincular trabajadores a estos
+   
+
+   Además es posible cargar la información almacenada en el fichero binario "DataBase.bin" el cual se encuentra en la carpeta "database" dentro del proyecto .
+   Esta acción se puede realizar en :
+
+    MainForm/Barra de menu/Archivo/Importar 
+   
+   Usted también puede y debe guardar la información actualizada en el fichero mencionado anteriormente de la siguiente forma:
+
+    MainForm/Barra de menu/Archivo/Exportar/ Seleccionar la carpeta ¨database¨ 
+
+
+
+    
