@@ -1,9 +1,9 @@
 # Computer Science 1st Year Internship at UCLV 2023 
 
- Developers:
-- Carlos Elías González Valdés (Eliasgv03)
-- Mauricio J. Avalo Tamayo (elMauro2003)
-- René Espinosa Arteaga (reneespinosa)
+### Developers
+- [Carlos Elías González Valdés](https://github.com/Eliasgv03)
+- [Mauricio J. Avalo Tamayo](https://github.com/elMauro2003)
+- [René Espinosa Arteaga](https://github.com/reneespinosa)
 
 
 
